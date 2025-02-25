@@ -1,0 +1,23 @@
+{
+    "confidence": [
+        {"q": "Believe in yourself and all that you are.", "a": "Christian D. Larson"},
+        {"q": "Confidence is contagious. Catch it!", "a": "Unknown"},
+        {"q": "With confidence, you have won before you have started.", "a": "Marcus Garvey"}
+    ],
+    "excellence": [
+        {"q": "Excellence is not a skill, it's an attitude.", "a": "Ralph Marston"},
+        {"q": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", "a": "Aristotle"}
+    ],
+    "inspiration": [
+        {"q": "The only way to do great work is to love what you do.", "a": "Steve Jobs"},
+        {"q": "Act as if what you do makes a difference. It does.", "a": "William James"}
+    ],
+    "success": [
+        {"q": "Success is not final, failure is not fatal: it is the courage to continue that counts.", "a": "Winston Churchill"},
+        {"q": "Success usually comes to those who are too busy to be looking for it.", "a": "Henry David Thoreau"}
+    ],
+    "time": [
+        {"q": "The bad news is time flies. The good news is you’re the pilot.", "a": "Michael Altshuler"},
+        {"q": "Time isn’t the main thing. It’s the only thing.", "a": "Miles Davis"}
+    ]
+}
