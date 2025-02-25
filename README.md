@@ -28,3 +28,6 @@ The response will be a JSON object containing the quote and author:
 }
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/65b2e826-5276-4c39-8637-57c1d8e3e373" />
+
