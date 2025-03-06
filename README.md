@@ -29,5 +29,6 @@ The response will be a JSON object containing the quote and author:
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-<img width="469" alt="image" src="https://github.com/user-attachments/assets/65b2e826-5276-4c39-8637-57c1d8e3e373" />
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/28a1f7a9-dd18-4058-a326-539159aef7b9" />
+
 
